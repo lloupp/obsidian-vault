@@ -1,0 +1,22 @@
+# Obsidian
+
+# Trash folder
+.trash/
+
+# Temp files
+~temp/
+
+# Excalidraw temp files
+.excalidraw/
+
+# Obsidian cache (if any)
+.obsidian/cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
