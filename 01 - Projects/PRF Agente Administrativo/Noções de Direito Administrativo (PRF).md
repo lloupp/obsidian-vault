@@ -20,3 +20,4 @@ Tópicos (base 2012 — confirmar edital):
 Voltar ao [[Estudo PRF]].
 
 > [!warning] Atenção às mudanças legislativas (Lei 14.133/2021 de licitações; Lei 14.230/2021 de improbidade). Confirme a vigência no edital.
+Vídeos recomendados: [[Vídeos PRF]].

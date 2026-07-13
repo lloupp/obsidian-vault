@@ -18,3 +18,4 @@ Tópicos:
 Voltar ao [[Estudo PRF]].
 
 > [!warning] Confirme as leis e números no edital e na legislação vigente.
+Vídeos recomendados: [[Vídeos PRF]].

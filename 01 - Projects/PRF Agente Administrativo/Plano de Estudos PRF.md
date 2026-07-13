@@ -20,6 +20,7 @@ Preparação para o concurso de **Agente Administrativo da Polícia Rodoviária 
 
 ## Revisão (flashcards)
 Baralhos de revisão espaçada por matéria: [[Flashcards PRF]].
+- Vídeos de estudo por matéria: [[Vídeos PRF]].
 Instale o plugin *Spaced Repetition* do Obsidian para revisar.
 
 ## Como estudar

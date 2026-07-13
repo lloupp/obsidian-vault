@@ -19,3 +19,4 @@ Voltar ao [[Estudo PRF]].
 
 > [!note] Fonte
 > Ementa baseada no último edital PRF Administrativo (2012). Confirme no edital vigente.
+Vídeos recomendados: [[Vídeos PRF]].
