@@ -18,6 +18,10 @@ Preparação para o concurso de **Agente Administrativo da Polícia Rodoviária 
 - [[Dir Admin PRF]] — noções de direito administrativo
 - [[Dir Const PRF]] — noções de direito constitucional (confirmar se entra)
 
+## Revisão (flashcards)
+Baralhos de revisão espaçada por matéria: [[Flashcards PRF]].
+Instale o plugin *Spaced Repetition* do Obsidian para revisar.
+
 ## Como estudar
 1. Defina uma rotina (ex.: 2h/dia) e ciclo de revisão (flashcards).
 2. Estude pela ementa do edital, não por intuição.
